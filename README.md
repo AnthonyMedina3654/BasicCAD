@@ -45,13 +45,15 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Mount
 
 ### Description
-
+A 120mm by 120 mm by 8 mm thick piece. it has 5 holes, one in each corner and one larger one in the middle.
 ### Evidence
+[Base & Mount](https://cvilleschools.onshape.com/documents/f74e79ef33162cca35158538/w/8860b8773966b8301c13f698/e/981720ede331fbe5f0fa600e)
 
 ### Image
+(file:///home/chronos/u-a60fce7fa9aea970cd02b833b3c71df84fbb2a50/MyFiles/Downloads/Screenshot%202020-10-01%20at%2010.18.21%20PM.png)
 
 ### Reflection
-
+it was very easy because all we had to do was add a line and extrude. I learned that you can make shortcuts that do the same thing, just faster.
 ---
 
 
