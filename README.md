@@ -50,7 +50,7 @@ A 120mm by 120 mm by 8 mm thick piece. it has 5 holes, one in each corner and on
 [Base & Mount](https://cvilleschools.onshape.com/documents/f74e79ef33162cca35158538/w/8860b8773966b8301c13f698/e/981720ede331fbe5f0fa600e)
 
 ### Image
-(file:///home/chronos/u-a60fce7fa9aea970cd02b833b3c71df84fbb2a50/MyFiles/Downloads/Screenshot%202020-10-01%20at%2010.18.21%20PM.png)
+<img src="file:///home/chronos/u-a60fce7fa9aea970cd02b833b3c71df84fbb2a50/MyFiles/Downloads/Screenshot%202020-10-01%20at%2010.18.21%20PM.png" width="100">
 
 ### Reflection
 it was very easy because all we had to do was add a line and extrude. I learned that you can make shortcuts that do the same thing, just faster.
@@ -60,13 +60,15 @@ it was very easy because all we had to do was add a line and extrude. I learned 
 ## Fork
 
 ### Description
-
+8in thick base, 75in forks  w/ 10in wide holes, 65in handle.
 ### Evidence
+[Fork](https://cvilleschools.onshape.com/documents/f74e79ef33162cca35158538/w/8860b8773966b8301c13f698/e/b7ff2ee850aadfd033ce7e9c)
 
 ### Image
+<img src="file:///home/chronos/u-a60fce7fa9aea970cd02b833b3c71df84fbb2a50/MyFiles/Downloads/Screenshot%202020-10-09%20at%2012.20.20%20PM.png" width="100">
 
 ### Reflection
-
+it was very easy, but I had a little trouble with the mirror on the forks. I couldn't find the plane to mirror over. 
 ---
 
 
