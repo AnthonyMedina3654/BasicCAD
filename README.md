@@ -65,7 +65,7 @@ it was very easy because all we had to do was add a line and extrude. I learned 
 [Fork](https://cvilleschools.onshape.com/documents/f74e79ef33162cca35158538/w/8860b8773966b8301c13f698/e/b7ff2ee850aadfd033ce7e9c)
 
 ### Image
-<img src="file:///home/chronos/u-a60fce7fa9aea970cd02b833b3c71df84fbb2a50/MyFiles/Downloads/Screenshot%202020-10-09%20at%2012.20.20%20PM.png" width="100">
+<img src="file:///home/chronos/u-a60fce7fa9aea970cd02b833b3c71df84fbb2a50/MyFiles/Downloads/Screenshot%202020-10-09%20at%2012.20.20%20PM.png" alt="The Fork" width="100">
 
 ### Reflection
 it was very easy, but I had a little trouble with the mirror on the forks. I couldn't find the plane to mirror over. 
@@ -75,26 +75,26 @@ it was very easy, but I had a little trouble with the mirror on the forks. I cou
 ## Tire
 
 ### Description
-
+it is a revolved drawing, 20mms wide, 110mms tall. it ahs 2 inch filits on the inside. 
 ### Evidence
-
+[Tire](https://cvilleschools.onshape.com/documents/f74e79ef33162cca35158538/w/8860b8773966b8301c13f698/e/518de07a55b71bd6fb65ba87)
 ### Image
-
+<img src="file:///home/chronos/u-a60fce7fa9aea970cd02b833b3c71df84fbb2a50/MyFiles/Downloads/Screenshot%202020-10-16%20at%2012.48.41%20PM.png" alt="The Tire" width="100">
 ### Reflection
-
+I learned about the fillet and revolve tools a bit. 
 ---
 
 
 ## Wheel
 
 ### Description
-
+it is a revolve of a sketch. it is 80 mms tall, 20 mms wide. 
 ### Evidence
-
+[Wheel](https://cvilleschools.onshape.com/documents/f74e79ef33162cca35158538/w/8860b8773966b8301c13f698/e/689b562141b3b610adab9c51)
 ### Image
-
+<img src="file:///home/chronos/u-a60fce7fa9aea970cd02b833b3c71df84fbb2a50/MyFiles/Downloads/Screenshot%202020-10-16%20at%2012.58.16%20PM.png" alt="The Wheel" width="100">
 ### Reflection
-
+I learned more about the Circular pattern. it is cool that you can do however many you want.
 ---
 
 
